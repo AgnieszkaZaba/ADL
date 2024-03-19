@@ -1,2 +1,2 @@
 # ADL
-Applied Deep learning
+Applied Deep learning - CIFAR100 classification project
